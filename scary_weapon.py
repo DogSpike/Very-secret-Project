@@ -26,7 +26,7 @@ def main():
 
 			if(bullet in revolver):
 				print("Your computer is kill, say goodbye")
-				#time.sleep(2)
+				time.sleep(2)
 				if os.name == 'nt':
 					print("Insert Delete system 32 here")
 					#!!! DO NOT UNCOMMENT THIS --> while(True):
