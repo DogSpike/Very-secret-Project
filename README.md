@@ -11,4 +11,4 @@
 #
 #
 be carefull while using this weapon son, it can destroy you too !
-use this code to activate it : U0hBV1QmTXs1cDFLc181M2NSZXRfVzNhcDBufQ==
+use this code to activate it : aHR0cHM6Ly9wYXN0ZWJpbi5jb20vUnlnZVpGdWE=
